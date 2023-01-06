@@ -8,6 +8,8 @@ Clone this repository
 git clone https://github.com/mlbam/poc_to_prod_project.git
 ```
 
+On the predict/predict/app/py, change the pathfile.
+
 ## Lauch the flask app 
 Deploy the app locally by running:
 ```bash
